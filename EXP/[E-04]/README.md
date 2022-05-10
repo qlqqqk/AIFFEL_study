@@ -28,3 +28,5 @@ stack을 활용하여 복수의 기본모델로 성능향상을 노렸으나, �
 ## 짧은 회고
 데이터 전처리에 실패한 것이 너무 아쉬운 과제였음.
 private or public score에 따라서 모델의 파라미터나 가중치를 조절하는 방법이 적절하지는 않았던 것 같음.(kaggle test 데이터에만 적합하게되는 모델일 가능성 有)
+![image](https://user-images.githubusercontent.com/69811817/167566309-69199941-0028-44b2-91ba-3535ec14144d.png)
+
