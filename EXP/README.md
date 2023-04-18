@@ -48,5 +48,24 @@
 
     13. **BERT(NLP)**
         korQuAD data set을 QA task에 맞게 전처리 후 EDA  
-        
+        BERT model 구현,학습 및 inference  
+
+    14. **GAN(CV)**  
+        CIFAR10 data set을 활용한 simple GAN 실습  
+
+    15. **Movie Recommendation(Resys)**  
+        추천시스템에서 중요한 sparse matrix를 CSR(Compressed Sparse Row)방법으로 다루기  
+        ALS Algorithm을 활용한 Recommendation 과정 실습  
+    
+    16. **Pix2Pix(CV)**  
+        이미지 데이터에 대한 확률적 augmentation 함수 구성  
+        pix2pix model(U-Net, PatchGAN) 구성  
+
+    17. **Session Based Recommendation(Resys)**  
+        sequential data 분석 및 GRU Recommendation model 구성  
+
+
+
+
+
 
